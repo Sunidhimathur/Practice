@@ -1,0 +1,8 @@
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\670285104\Desktop\Practice\SolidPrincipleImplementation\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
