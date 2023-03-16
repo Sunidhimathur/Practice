@@ -1,0 +1,24 @@
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\bin\Debug\net7.0\ArthmeticOperationsLibrary.deps.json
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\bin\Debug\net7.0\ArthmeticOperationsLibrary.dll
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\bin\Debug\net7.0\ArthmeticOperationsLibrary.pdb
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.AssemblyInfoInputs.cache
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.AssemblyInfo.cs
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.dll
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\refint\ArthmeticOperationsLibrary.dll
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.pdb
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ref\ArthmeticOperationsLibrary.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\bin\Debug\net7.0\ArthmeticOperationsLibrary.deps.json
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\bin\Debug\net7.0\ArthmeticOperationsLibrary.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\bin\Debug\net7.0\ArthmeticOperationsLibrary.pdb
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.AssemblyInfoInputs.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.AssemblyInfo.cs
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\refint\ArthmeticOperationsLibrary.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ArthmeticOperationsLibrary.pdb
+C:\Users\670285104\Desktop\Practice\Display DataTable\PracticeUnitTesting\ArthmeticOperationsLibrary\obj\Debug\net7.0\ref\ArthmeticOperationsLibrary.dll

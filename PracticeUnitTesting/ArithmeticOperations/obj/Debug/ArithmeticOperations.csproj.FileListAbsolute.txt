@@ -1,0 +1,17 @@
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\Castle.Core.dll
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\Moq.dll
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\Castle.Core.xml
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\Moq.xml
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\670285104\Desktop\Practice\PracticeUnitTesting\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CopyComplete
