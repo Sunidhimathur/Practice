@@ -1,0 +1,13 @@
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\bin\Debug\ModelFirstApproach.exe.config
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\bin\Debug\ModelFirstApproach.exe
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\bin\Debug\ModelFirstApproach.pdb
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.dll
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.xml
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.csproj.CopyComplete
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.exe
+C:\Users\670285104\Desktop\Practice\EntityFramework\ModelFirstApproach\ModelFirstApproach\obj\Debug\ModelFirstApproach.pdb

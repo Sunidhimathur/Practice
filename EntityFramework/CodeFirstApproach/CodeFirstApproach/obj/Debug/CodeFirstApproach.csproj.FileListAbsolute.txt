@@ -1,0 +1,13 @@
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe.config
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.exe
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\bin\Debug\CodeFirstApproach.pdb
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.dll
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.xml
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.csproj.CopyComplete
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.exe
+C:\Users\670285104\Desktop\Practice\EntityFramework\CodeFirstApproach\CodeFirstApproach\obj\Debug\CodeFirstApproach.pdb

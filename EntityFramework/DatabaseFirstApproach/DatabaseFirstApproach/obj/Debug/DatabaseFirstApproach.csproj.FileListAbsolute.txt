@@ -1,0 +1,13 @@
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\DatabaseFirstApproach.exe.config
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\DatabaseFirstApproach.exe
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\DatabaseFirstApproach.pdb
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.dll
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.xml
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.csproj.CopyComplete
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.exe
+C:\Users\670285104\Desktop\Practice\EntityFramework\DatabaseFirstApproach\DatabaseFirstApproach\obj\Debug\DatabaseFirstApproach.pdb
